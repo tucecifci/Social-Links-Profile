@@ -58,12 +58,10 @@ display: flex;
 
 ### 👩🏼‍💻 Continued development
 
-While the current version of the recipe page meets the initial requirements, there are several areas where it can be further developed and enhanced. Some of the ideas for future improvements include:
+While the current version of the social links page meets the initial requirements, there are several areas where it can be further developed and enhanced. Some of the ideas for future improvements include:
 
-- Adding more recipes to expand the content and variety of the page.
 - Implementing a search feature to allow users to easily find specific recipes.
 - Enhancing the styling and layout to improve the overall visual appeal and user experience.
-- Incorporating JavaScript to add interactive features such as filtering recipes or saving favorites.
 - Optimizing the page for better performance and accessibility.
 - These are just a few of the potential areas for continued development. As I gain more experience and skills, I look forward to implementing these improvements and exploring new ideas to enhance the recipe page further.
 
